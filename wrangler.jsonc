@@ -19,6 +19,12 @@
 			"bucket_name": "angorussia-media","preview_bucket_name": "angorussia-media",
 		},
 	],
+  "kv_namespaces": [
+    {
+      "binding": "SESSION",
+      "id": "f48c375ad7bb4f9093d5a4dd259f6938"
+    }
+  ],
 	"observability": {
 		"enabled": true,
 	},
